@@ -10,7 +10,7 @@ import sections.analysis
 SECTIONS = {
     "Профиль": sections.profile,
     "Антропометрия": sections.anthropometry,
-    "Тренирововчный процесс": sections.training,
+    "Тренировочный процесс": sections.training,
     "Состояние": sections.condition.index,
     "Контрольные тесты, соревнования": sections.control,
     "Анализ тренировочной деятельности": sections.analysis,
