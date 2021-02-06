@@ -1,1 +1,1 @@
-Based on master's thesis of Mukhaeva Elena
+Based on master's thesis of Nekhoroshkina Elena
